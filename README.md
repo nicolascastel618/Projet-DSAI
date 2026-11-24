@@ -104,7 +104,9 @@ python generate.py strategy=best_of_n \
 
 Projet réalisé par :
 - **Tristan JIN** 
-- **Wassim SMATI** 
+- **Wassim SMATI**
+- **Yanis DAHASSE**
+- **Nicolas CASTEL**
 
 Contributions : 
 
@@ -132,8 +134,9 @@ formatting of the CMV dataset, as well as data preparation , train/validation/te
 by post identifier and position bias handling. On the modelling side, I performed the fine-
 tuning of RoBERTa in Cross-Encoder architecture, which constitutes our best result on this
 task, and explored several DeBERTa approaches that did not succeed within the allotted
-time. In parallel, I conducted a literature review of reference works and developed the
-project timeline.
+time.
+
+• Nicolas CASTEL: I had the smallest part of the work on the actual coding in this project, sharing functions and ideas with the group for Axis 1 and 3, but I mainly focused on searching scientific litterature both for Axis 1 and 3 to structure the core of the project, features to look at for Axis 1, discussing ideas with the supervisors on best-of-N, fine-tuning, feature selection, discussions about the interpretability tools to implement, including t-SNE and UMAP visualizations and connecting the project parts together.
 
 Outils d'organisation : GitHub et utilisation des serveurs gpu de l'école pour les calculs lourds.
 
